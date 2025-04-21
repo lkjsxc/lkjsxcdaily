@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "lkjsxcdaily",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "8402bd9c-feec-44b2-8fd7-744d239ad8b3",
+      "database_name": "lkjsxcdaily-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
